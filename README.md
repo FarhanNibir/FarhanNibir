@@ -5,10 +5,10 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://farhannibir.github.io/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://farhannibir.github.io/)
 - 💬 Ask me about **Python, Django**
 - 📫 How to reach me **nibir119@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FGz1GogEkf4SfH_wYaUdyDtJrCrI2NHA/view?usp=drivesdk)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1FGz1GogEkf4SfH_wYaUdyDtJrCrI2NHA/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
