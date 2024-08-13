@@ -59,5 +59,15 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a> 
 </p>
+<h3 aling = "left">GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhannibir&show_icons=true&locale=en&layout=compact" alt="farhannibir" /></p>
+![](https://github-readme-stats.vercel.app/api?username=FarhanNibir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=FarhanNibir&theme=dark&hide_border=false)<br/>
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanNibir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=FarhanNibir&icon=0&color=0)](https://visitcount.itsvg.in)
