@@ -68,7 +68,7 @@
 
 </div>
 
-![snake gif](https://github.com/FarhanNibir/FarhanNibir/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/FarhanNibir/FarhanNibir/blob/output/github-contribution-grid-snake.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FarhanNibir&icon=0&color=0)](https://visitcount.itsvg.in)
