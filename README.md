@@ -67,6 +67,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FarhanNibir&theme=dark&hide_border=false)
 
 </div>
+ 
+ ![snake gif](https://github.com/FarhanNibir/FarhanNibir/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
