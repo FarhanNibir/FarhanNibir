@@ -68,7 +68,6 @@
 
 </div>
  
- ![snake gif](https://github.com/FarhanNibir/FarhanNibir/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
