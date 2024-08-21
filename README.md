@@ -68,7 +68,6 @@
 
 </div>
 
- (https://github.com/FarhanNibir/FarhanNibir/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=FarhanNibir&icon=0&color=0)](https://visitcount.itsvg.in)
 
