@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at my [Portfolio](https://farhannibir.github.io/)
 - 💬 Ask me about **Python, Django**
 - 📫 How to reach me **nibir119@gmail.com**
-- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1FGz1GogEkf4SfH_wYaUdyDtJrCrI2NHA/view?usp=drivesdk)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1jww27qZLdfdLVeYGNGJach4KV59iAd_L/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
