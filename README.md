@@ -6,7 +6,6 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://farhannibir.github.io/)
-- 💬 Ask me about **Python, Django**
 - 📫 How to reach me **nibir119@gmail.com**
 - 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1jww27qZLdfdLVeYGNGJach4KV59iAd_L/view?usp=sharing)
 
