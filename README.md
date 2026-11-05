@@ -121,10 +121,10 @@ reach_me:  farhanjarifnibir@gmail.com
 
 <br/>
 
-<img src="https://img.shields.io/github/created-at/FarhanNibir?style=flat-square&label=Joined%20GitHub&color=8B6CFF&labelColor=0D1117" alt="Joined"/>
-<img src="https://img.shields.io/github/commit-activity/y/FarhanNibir/Easy-Clothing-Mart?style=flat-square&label=Commits%20%28Easy%20Clothing%20Mart%29&color=5B8CFF&labelColor=0D1117" alt="Commits"/>
-<img src="https://img.shields.io/github/last-commit/FarhanNibir/Easy-Clothing-Mart?style=flat-square&label=Last%20Commit&color=22D3EE&labelColor=0D1117" alt="Last commit"/>
-<img src="https://img.shields.io/github/languages/count/FarhanNibir/Easy-Clothing-Mart?style=flat-square&label=Languages&color=8B6CFF&labelColor=0D1117" alt="Languages"/>
+<img src="https://img.shields.io/github/stars/FarhanNibir/Easy-Clothing-Mart?style=flat-square&label=Easy%20Clothing%20Mart&logo=github&color=8B6CFF&labelColor=0D1117" alt="Easy Clothing Mart stars"/>
+<img src="https://img.shields.io/github/stars/FarhanNibir/On-Demand-Service?style=flat-square&label=On%20Demand%20Service&logo=github&color=5B8CFF&labelColor=0D1117" alt="On Demand Service stars"/>
+<img src="https://img.shields.io/github/stars/FarhanNibir/Library-Management-System?style=flat-square&label=Library%20Mgmt&logo=github&color=22D3EE&labelColor=0D1117" alt="Library Management stars"/>
+<img src="https://img.shields.io/github/stars/FarhanNibir/Smart-Road-Safety?style=flat-square&label=Smart%20Road%20Safety&logo=github&color=8B6CFF&labelColor=0D1117" alt="Smart Road Safety stars"/>
 
 <br/><br/>
 
