@@ -1,11 +1,11 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6CFF,50:5B8CFF,100:22D3EE&height=220&section=header&text=Farhan%20Jarif%20Nibir&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%C2%B7%20ERP%20%26%20Business%20Applications&descSize=18&descAlignY=60&animation=fadeIn" alt="Farhan Jarif Nibir banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6CFF,100:22D3EE&height=200&section=header&text=Farhan%20Jarif%20Nibir&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="Farhan Jarif Nibir"/>
 
-<a href="https://farhannibir.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B6CFF&center=true&vCenter=true&width=640&lines=Building+ERP+%26+business+web+apps;Shipping+features+to+live+production;PHP+%C2%B7+Laravel+%C2%B7+Python+%C2%B7+Django;Based+in+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing animation"/>
-</a>
+### Full-Stack Web Developer &nbsp;·&nbsp; ERP & Business Applications
+
+<sub>PHP &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Python &nbsp;·&nbsp; Django &nbsp;·&nbsp; Dhaka, Bangladesh 🇧🇩</sub>
 
 <br/>
 
@@ -115,10 +115,14 @@ reach_me:  farhanjarifnibir@gmail.com
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FarhanNibir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B6CFF&icon_color=22D3EE&border_radius=12" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanNibir&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B6CFF&layout=compact&border_radius=12" alt="Top languages"/>
+<img src="https://img.shields.io/github/followers/FarhanNibir?style=for-the-badge&logo=github&color=8B6CFF&labelColor=0D1117" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/FarhanNibir?affiliations=OWNER&style=for-the-badge&logo=github&color=5B8CFF&labelColor=0D1117" alt="Stars"/>
+<img src="https://img.shields.io/badge/Public%20Repos-5%2B-22D3EE?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repos"/>
 
-<img src="https://streak-stats.demolab.com/?user=FarhanNibir&theme=tokyonight&hide_border=true&background=0D1117&ring=8B6CFF&fire=22D3EE&currStreakLabel=22D3EE&border_radius=12" alt="GitHub streak"/>
+<br/><br/>
+
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages"/>
 
 </div>
 
@@ -136,8 +140,6 @@ reach_me:  farhanjarifnibir@gmail.com
 
 <br/><br/>
 
-[![Visitor count](https://visitcount.itsvg.in/api?id=FarhanNibir&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:5B8CFF,100:8B6CFF&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B6CFF&height=100&section=footer" alt="footer"/>
 
 </div>
