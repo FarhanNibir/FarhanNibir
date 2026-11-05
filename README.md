@@ -119,10 +119,28 @@ reach_me:  farhanjarifnibir@gmail.com
 <img src="https://img.shields.io/github/stars/FarhanNibir?affiliations=OWNER&style=for-the-badge&logo=github&color=5B8CFF&labelColor=0D1117" alt="Stars"/>
 <img src="https://img.shields.io/badge/Public%20Repos-5%2B-22D3EE?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repos"/>
 
+<br/>
+
+<img src="https://img.shields.io/github/created-at/FarhanNibir?style=flat-square&label=Joined%20GitHub&color=8B6CFF&labelColor=0D1117" alt="Joined"/>
+<img src="https://img.shields.io/github/commit-activity/y/FarhanNibir/Easy-Clothing-Mart?style=flat-square&label=Commits%20%28Easy%20Clothing%20Mart%29&color=5B8CFF&labelColor=0D1117" alt="Commits"/>
+<img src="https://img.shields.io/github/last-commit/FarhanNibir/Easy-Clothing-Mart?style=flat-square&label=Last%20Commit&color=22D3EE&labelColor=0D1117" alt="Last commit"/>
+<img src="https://img.shields.io/github/languages/count/FarhanNibir/Easy-Clothing-Mart?style=flat-square&label=Languages&color=8B6CFF&labelColor=0D1117" alt="Languages"/>
+
 <br/><br/>
 
-<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
-<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages"/>
+<img height="190" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+<img height="190" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+
+<img height="190" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
+<img height="190" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+
+<img height="190" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
+
+<br/><br/>
+
+**Contribution snake** 🐍
+
+<img src="https://raw.githubusercontent.com/FarhanNibir/FarhanNibir/output/github-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
 
